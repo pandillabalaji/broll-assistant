@@ -107,3 +107,4 @@ broll-groq/
 ├── START.command                # Double-click to start
 └── README.md
 ```
+<img width="1800" height="1169" alt="Screenshot 2026-03-15 at 9 58 18 AM" src="https://github.com/user-attachments/assets/4d11c692-1803-48d9-a87d-d362a3dd6c20" />
